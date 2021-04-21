@@ -24,7 +24,7 @@ tags : ['sitemap']
     </div>
     <div class="e-content-holder e-content__center" style="margin-top:2rem;">
         <div class="e-content__photo-holder">
-            <img src="https://www.eveskov.com/img/evgeni-veskov-890x650.jpg" alt="Evgeni Veskov in Rome">
+            <img src="/assets/img//evgeni-veskov-890x650.jpg" alt="Evgeni Veskov in Rome">
         </div>
         <div class="e-content__text-holder">
             <h3 class="e-section-title">Bio</h3>
