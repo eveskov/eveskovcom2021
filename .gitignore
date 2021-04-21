@@ -102,3 +102,13 @@ dist
 
 # TernJS port file
 .tern-port
+
+# macOS
+.DS_Store
+
+# IDE / Editor
+.idea
+
+# Eleventy
+public
+_test

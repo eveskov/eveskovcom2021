@@ -1,0 +1,82 @@
+[
+    {
+        "title": "Atelie Toni",
+        "descr": "Online presence of producer of handmade wooden frames.",
+        "tech": "UX, WordPress, Astra theme, Elementor, custom HTML/CSS",
+        "url": "https://atelietoni.com/",
+        "imgUrl": "/assets/img/atelie-toni-cover.svg",
+        "imgAlt": "Logo Atelie Toni"
+    },
+    {
+        "title": "Altherm Ltd",
+        "descr": "Online portfolio of manufacturing company. This is the first website I have created.",
+        "tech": "UX, Boostrap, SASS, JavaScript, Responsive",
+        "url": "http://altherm.bg/en",
+        "imgUrl": "/assets/img/altherm-cover.svg",
+        "imgAlt": "Logo Altherm"
+    },
+    {
+        "title": "GCSE History",
+        "descr": "Landing page for GCSE History by Clever Lili, the startup company I work for.",
+        "tech": "UX, Tailwind CSS, JavaScript, Responsive",
+        "url": "https://www.gcsehistory.com/",
+        "imgUrl": "/assets/img/gcsehistory-cover.svg",
+        "imgAlt": "Logo"
+    },
+    {
+        "title": "GCSE History iOS App",
+        "descr": "Native iOS app, \"chat\" with AI assistant, which answers to GCSE history questions.",
+        "tech": "UX, UI, Swift, native app",
+        "url": "https://apps.apple.com/app/gcse-igcse-history/id1502388559",
+        "imgUrl": "/assets/img/gcsehistory-ios-cover.svg",
+        "imgAlt": "logo for iOS app"
+    },
+    {
+        "title": "GCSE History Android App",
+        "descr": "Native Android app, \"chat\" with AI assistant, which answers to GCSE history questions.",
+        "tech": "UX, UI, Kotlin, native app",
+        "url": "https://play.google.com/store/apps/details?id=com.kinbox.history",
+        "imgUrl": "/assets/img/gcsehistory-android-cover.svg",
+        "imgAlt": "logo for Android app"
+    },
+    {
+        "title": "Lily History for Google Assistant",
+        "descr": "AI assistant to revise your history knowledge.",
+        "tech": "Conversational UI, Google Dialogflow",
+        "url": "https://assistant.google.com/services/a/uid/00000064a1f112ce",
+        "imgUrl": "/assets/img/lili-history-google-assistant-cover.png",
+        "imgAlt": "logo with Google Assistant"
+    },
+    {
+        "title": "Lily History for Amazon Alexa",
+        "descr": "AI assistant to revise your history knowledge.",
+        "tech": "Conversational UI, Alexa APL",
+        "url": "https://www.amazon.co.uk/dp/B08H166ZSW",
+        "imgUrl": "/assets/img/lili-history-amazon-alexa-cover.png",
+        "imgAlt": "logo with Amazon Alexa"
+    },
+    {
+        "title": "Baby Baby",
+        "descr": "AI assistant - broad array of parenting advice",
+        "tech": "Conversational UI, Alexa APL",
+        "url": "https://www.amazon.com/KinBox-LTD-Baby/dp/B083NWRHYC",
+        "imgUrl": "/assets/img/kinbox-baby-amazon-alexa-cover.png",
+        "imgAlt": ""
+    },
+    {
+        "title": "KinBox Baby",
+        "descr": "Landing page for \"Baby Baby\" - AI assistant for parents with newborns.",
+        "tech": "UX, Tailwind CSS, JavaScript, Responsive",
+        "url": "https://www.kinboxbaby.com/",
+        "imgUrl": "/assets/img/kinbox-baby-cover.png",
+        "imgAlt": ""
+    },
+    {
+        "title": "KinBox Magazine",
+        "descr": "Family oriented magazine.",
+        "tech": "UX, WordPress, Newspaper theme, Custom HTML/CSS",
+        "url": "https://www.kinbox.com/",
+        "imgUrl": "/assets/img/kinbox-magazine-cover.png",
+        "imgAlt": ""
+    }
+]

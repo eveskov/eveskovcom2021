@@ -1,0 +1,118 @@
+/*
+==========
+CONTAINERS
+========== 
+*/
+.e-content-holder {
+    width: 100%;
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.e-section__main {
+    width: 100%;
+    padding: var(--space-between-sections) var(--section-side-padding);
+
+    // &.e-with-bkg {
+    //     padding: 4rem 1.5rem;
+    // }
+}
+
+
+/*
+====
+FLEX
+====
+*/
+.e-flex {
+    display: flex;
+}
+
+.e-justify-center {
+    justify-content: center;
+}
+
+.e-items-center {
+    align-items: center;
+}
+
+.e-flex-1 {
+    flex: 1;
+}
+
+
+.e-section-separator-line {
+    border-top: 1px solid #CFD8DC;
+    margin-bottom: 4rem;
+}
+
+/*
+====
+GRID
+====
+*/
+
+.e-grid {
+    display: grid;
+}
+
+.e-grid-col-3 {
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.e-gap-4 {
+    gap: 1rem;
+}
+
+
+/*
+======
+MARGIN
+======
+*/
+.e-mx-auto {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.e-mt-2 {
+    margin-top: 0.5rem;
+}
+
+
+/*
+==========
+VISIBILITY
+==========
+*/
+.e-visible-on-phone,
+.e-visible-on-phone-and-tablet,
+.e-visible-on-tablet-and-desktop,
+.e-visible-on-desktop {
+    display: none;
+}
+
+@media (min-width: 650px) {
+    .e-visible-on-tablet-and-desktop {
+        display: block;
+    }
+}
+
+@media (min-width: 769px) {
+    .e-visible-on-desktop {
+        display: block;
+    }
+}
+
+@media (max-width: 768px) {
+    .e-visible-on-phone-and-tablet {
+        display: block;
+    }
+}
+
+@media (max-width: 650px) {
+    .e-visible-on-phone {
+        display: block;
+    }
+}

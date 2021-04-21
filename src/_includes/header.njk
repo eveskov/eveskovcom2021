@@ -1,0 +1,15 @@
+<header>
+    <nav class="e-main-nav">
+        <div class="e-content-holder e-flex e-items-center">
+            <h1 class="e-main-nav__logo-text"><a href="/">e.veskov</a></h1>
+            {% set navPages = collections.all | eleventyNavigation %}
+            <ul class="e-main-nav__items e-flex e-items-center e-flex-1">
+                {%- for entry in navPages %}
+                    <li class="e-main-nav__item {% if entry.url == page.url %} active {% endif %}">
+                        <a href="{{ entry.url | url }}">{{ entry.title }}</a>
+                    </li>
+                {%- endfor %}
+            </ul>
+        </div>
+    </nav>
+</header>

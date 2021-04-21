@@ -1,0 +1,39 @@
+.e-btn {
+    display: inline-block;
+    font-size: 0.9rem;
+    line-height: 1.4;
+    padding: 0.7rem 1rem;
+    border-radius: 0.5rem;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-weight: 500;
+    will-change: background-color, color;
+    transition-property: background-color, color;
+    transition: 0.5s;
+
+    &.e-btn__outline {
+        color: var(--btn-primary);
+        border: 1px solid var(--btn-primary);
+
+        &:hover {
+            color: #040404;
+            background-color: rgba(#37474F, 0.15);
+        }
+
+    }
+}
+
+.e-link {
+    display: inline-block;
+    color: #455A64;
+    text-decoration: none;
+    box-shadow: 0 1px #03A9F4;
+    will-change: color;
+    transition-property: color;
+    transition: 0.5s;
+
+    &:hover {
+        color: #040404;
+        box-shadow: 0 2px #2979FF;
+    }
+}
