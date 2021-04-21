@@ -1,0 +1,61 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin: 0;
+}
+
+@media (min-width: 1000px) {
+    :root {
+        --paragraph-text-main-font-size: 1.3rem;
+        --paragraph-text-main-line-height: 2rem;
+
+        --page-title-font-size: 4.5rem;
+        --section-title-font-size: 2rem;
+
+        --feature-title-font-size: 1.5rem;
+    }
+}
+
+@media (min-width: 1650px) {
+    :root {
+        --paragraph-text-main-font-size: 1.5rem;
+        --paragraph-text-main-line-height: 2.125rem;
+
+        --page-title-font-size: 4.5rem;
+        --section-title-font-size: 2rem;
+
+        --feature-title-font-size: 1.8rem;
+    }
+}
+
+@media (max-width: 1000px) {
+    :root {
+        --paragraph-text-main-font-size: 1.2rem;
+        --paragraph-text-main-line-height: 2rem;
+
+        --page-title-font-size: 3rem;
+        --section-title-font-size: 1.85rem;
+
+        --feature-title-font-size: 1.4rem;
+    }
+}
+
+.e-font-bold {
+    font-weight: 700;
+}
+
+.e-font-extrabold {
+    font-weight: 900;
+}
+
+.e-italic {
+    font-style: italic;
+}
+
+.e-font-xs {
+    font-size: 0.875rem;
+    // line-height: calc(0.875 * 1.5);
+}
