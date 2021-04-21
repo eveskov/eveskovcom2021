@@ -1,7 +1,10 @@
 User-agent: *
 Allow: /
 
-Disallow: /_test, _projects
-Noindex: /_test, _projects
+Disallow: /_test
+Disallow: /_projects
+
+Noindex: /_test
+Noindex: /_projects
 
 Sitemap: https://www.eveskov.com/sitemap.xml
