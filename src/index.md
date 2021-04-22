@@ -41,7 +41,7 @@ tags : ['sitemap']
     <div class="e-content-holder e-content__with-right-photo e-reverse-mobile">
         <div class="e-content__text-holder">
             <h3 class="e-home-section-title e-visible-on-desktop">9Sharp</h3>
-            <p>A platform to show your personal branding and web presence in one organized place.</p>
+            <p>A platform where you can show your personal branding and web presence in one organized place.</p>
             <a href="/projects/9sharp" class="e-btn e-btn__outline">View case study</a>
         </div>
         <div class="e-content__photo-holder">
