@@ -92,8 +92,9 @@ tags : ['sitemap']
                 <div>
                     <h3 class="e-section-title">Design</h3>
                     <ul>
-                        <li>UX (interaction design, wireframing, prototyping)</li>
-                        <li>UI design</li>
+                        <li>UX (interaction design, wireframing, prototyping, competitive research, empathy for the user)</li>
+                        <li>User-centered Design</li>
+                        <li>User Interface Design</li>
                         <li>Sketching</li>
                         <li>Graphic Design</li>
                         <li>Logo Design</li>
