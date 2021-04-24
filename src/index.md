@@ -18,7 +18,7 @@ tags : ['sitemap']
                 <div>It's Evgeni.</div>
              </div>
             </h2>
-            <p>I am a UX/UI/Web Designer, with more than 7 years of experience in the field of web and mobile app development. I create digital products and services that are intuitive and accessible. I am currently working on an amazing educational project at the startup company Clever Lili (<a href="https://app.gcsehistory.com" target="_blank" class="e-link">GCSEHistory.com</a>).</p>
+            <p>I am a UX/UI/Web Designer, with more than 7 years of experience in the field of web and mobile app development. I create digital products and services that are intuitive and accessible. I am currently working on an amazing educational project at the startup company Clever Lili <span style="white-space: nowrap;">(<a href="https://app.gcsehistory.com" target="_blank" class="e-link">GCSEHistory.com</a>)</span>.</p>
             <a href="/about" class="e-link" style="margin-top: 1rem;">See more</a>
         </div>
     </div>
