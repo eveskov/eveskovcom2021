@@ -19,12 +19,13 @@ tags : ['sitemap']
                 <a href="#skills">#skills</a>
                 <a href="#learning-resources">#learning</a>
                 <a href="#trivia">#trivia about me</a>
+                <a href="#resume">#resume/cv</a>
             </div>
         </div>
     </div>
     <div class="e-content-holder e-content__center" style="margin-top:2rem;">
         <div class="e-content__photo-holder">
-            <img src="/assets/img//evgeni-veskov-890x650.jpg" alt="Evgeni Veskov in Rome">
+            <img src="/assets/img/evgeni-veskov-890x650.jpg" alt="Evgeni Veskov in Rome">
         </div>
         <div class="e-content__text-holder">
             <h3 class="e-section-title">Bio</h3>
@@ -131,6 +132,10 @@ tags : ['sitemap']
                 <li>I love self-irony;</li>
                 <li>I have strong analytical skills.</li>
             </ul>
+        </div>
+        <div class="e-content__text-holder">
+            <div class="e-section-separator-line"></div>
+            <a id="resume" href="/assets/CV_Evgeni_Veskov_Nikolov.pdf" target="_blank" download class="e-link">Download my Resume/CV</a>
         </div>
     </div>
 </section>

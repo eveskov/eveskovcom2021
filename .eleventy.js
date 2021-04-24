@@ -9,7 +9,7 @@ const Image = require("@11ty/eleventy-img");
 async function imageShortcode(src, alt, sizes) {
   let metadata = await Image(src, {
     widths: ['100%', null],
-    formats: ["avif", "jpeg", "png", "svg"],
+    formats: ["avif", "jpeg", "png", "svg", "png"],
     urlPath : "./src/assets/img/",
     outputDir : "/public/assets/img/"
   });
@@ -47,6 +47,7 @@ module.exports = function(eleventyConfig) {
     // Copy the `img/` directory
     eleventyConfig.addPassthroughCopy("img");
     eleventyConfig.addPassthroughCopy("./src/assets/img");
+    eleventyConfig.addPassthroughCopy("./src/assets");
 
     eleventyConfig.addPassthroughCopy("sitemap");
 
