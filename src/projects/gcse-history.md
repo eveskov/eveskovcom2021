@@ -194,7 +194,7 @@ layout: layout-default.njk
         </div>
         <div class="e-content__text-holder">
             <h3 class="e-section-title">What did I learn?</h3>
-            <p><strong>"Keep learning"</strong> is my motto. I am happy when in each project I learn new things. In this project, there were a lot of challenges and a lot of new things I learned. I improved my skills in designing <strong>UX for different users</strong>, designing a complicated app. The biggest challenge was <strong>to look simple and easy to use at the same time</strong>. The new thing for me was <strong>designing a learning platform</strong>.</p>
+            <p><strong>"Keep learning"</strong> is my motto. I am happy when in each project I learn new things. In this project, there were a lot of challenges and a lot of new things I learned. I improved my skills in designing <strong>user experience for different users</strong>, designing a complicated app. The biggest challenge was <strong>to look simple and easy to use at the same time</strong>. The new thing for me was <strong>designing a learning platform</strong>.</p>
             <p>I helped the app to be easy for navigation and user-friendly. I <strong>did more research and analysis.</p>
             <p>One interesting thing for me was working on native apps and to learn more about Human Interface Guidelines by Apple and Material Design Guidelines by Google.</p>
             <p>I gained a lot of new knowledge, working with completely new technologies (Vue, Nuxt, Swift, Kotlin, etc).</p>
