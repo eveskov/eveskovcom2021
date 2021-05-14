@@ -33,7 +33,7 @@ layout: layout-default.njk
                 <li>Building an entire web app layout with HTML and SASS, using Vue.js/Nuxt.js frameworks</li>
                 <li>Building layouts for native apps with Swift and Kotlin</li>
                 <li>Responsive design for the web app</li>
-                <li>UI design and creating reusable UI components and patterns, like buttons, form elements, list elements (like cards), headers, modals, and others, in order to achieve visual consistency across different pages and speed up the development process</li>
+                <li>UI design and creating reusable UI components and patterns, like buttons, form elements, list elements (like cards), headers, modals, and others, to achieve visual consistency across different pages and speed up the development process</li>
                 <li>Manage visual assets - images, icons</li>
                 <li>Design of landing pages</li>
                 <li>Collaborate with 2 full-stack developers</li>
