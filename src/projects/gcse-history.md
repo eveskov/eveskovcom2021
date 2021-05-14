@@ -25,7 +25,7 @@ layout: layout-default.njk
             <h3 id="responsibilites" class="e-section-title">My Responsibilities</h3>
             <ul>
                 <li>Competitive research</li>
-                <li>Defining user workflows and constantly giving suggestions for optimization</li>
+                <li>Defining user workflows and constantly giving suggestions for improvement and optimization</li>
                 <li>Creating wireframes and interactive prototypes</li>
                 <li>UX/UI design for web app*</li>
                 <li>UX/UI design for native iOS and Android apps*</li>
@@ -33,9 +33,9 @@ layout: layout-default.njk
                 <li>Building an entire web app layout with HTML and SASS, using Vue.js/Nuxt.js frameworks</li>
                 <li>Building layouts for native apps with Swift and Kotlin</li>
                 <li>Responsive design for the web app</li>
-                <li>Creating reusable components and patterns, like buttons, form elements, list elements (like cards), modals, and others, in order to achieve visual consistency across different pages and speed up the development process</li>
+                <li>UI design and creating reusable UI components and patterns, like buttons, form elements, list elements (like cards), headers, modals, and others, in order to achieve visual consistency across different pages and speed up the development process</li>
                 <li>Manage visual assets - images, icons</li>
-                <li>Landing page</li>
+                <li>Landing page design</li>
                 <li>Collaborate with 2 full-stack developers</li>
                 <li>Email templates - UI design and building in Send Grid (HTML and CSS)</li>
                 <li>Graphic design for 44 print books (study guides) and converting from HTML to PDF, EPUB, and Kindle</li>
