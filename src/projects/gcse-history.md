@@ -57,12 +57,28 @@ layout: layout-default.njk
         <div class="e-content__text-holder">
             <h3 class="e-section-title">Solutions</h3>
             <p>While working on UX, a lot of decisions were made. Below you can find only some of them.</p>
-            <!-- <div>#Web App</div> -->
+        </div>
+    </div>
+    <div class="e-content-holder e-content__center">
+        <div class="e-content__text-holder">
             <h4 class="e-feature-title">Navigation</h4>
+            <p>Using pen & paper is my favorite tool for thinking about information architecture and user flow. Because of the specifics of the UK educational system, there were a few challenges regarding how the user navigates to some of the features.</p>
+        </div>
+    </div>
+    <div class="e-content-holder e-content__screenshots-grid e-col-2">
+        <div class="e-content__photo-holder">
+            <img src="/assets/img/sketch_2_900-tiny.jpg" alt="Drawing that shows design thinking process for app navigation">
+        </div>
+        <div class="e-content__photo-holder">
+            <img src="/assets/img/sketch_3_900-tiny.jpg" alt="Drawing that shows design thinking process for app navigation">
+        </div>
+    </div>
+    <div class="e-content-holder e-content__center">
+        <div class="e-content__text-holder">
             <p>For the entire app, our approach was to create navigation broken down into a few main big sections which were visible in the main navbar. There we have added: Ask Lili (chat with a smart assistant), Study, Teachers corner (for teachers) or Homework (for students), and Bookstore. Less important features or navigation flows were added to a dropdown menu.</p>
         </div>
     </div>
-     <div class="e-content-holder e-content__with-left-photo">
+    <div class="e-content-holder e-content__with-left-photo">
         <div class="e-content__text-holder">
             <p>Some features have many important sub-features. If a student or a teacher clicks on Study from the main navbar, the next screen includes 3 main navigation options. If the teacher clicks on Teacher's corner from the main navbar, the next screen includes 4 extra options. This helps users to navigate without confusion.</p>
         </div>

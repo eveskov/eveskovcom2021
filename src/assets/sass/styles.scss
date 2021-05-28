@@ -402,6 +402,10 @@ $other-project-img-size: 6rem;
     }
 
     .e-content__screenshots-grid {
+        &.e-col-2 {
+            grid-template-columns: repeat(2, 1fr);
+        }
+
         &.e-col-3 {
             grid-template-columns: repeat(3, 1fr);
         }
