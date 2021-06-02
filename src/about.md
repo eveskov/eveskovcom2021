@@ -12,7 +12,7 @@ tags : ['sitemap']
     <div class="e-content-holder e-content__center">
         <div class="e-content__text-holder e-intro">
             <h2 class="e-page-title">/About</h2>
-            <p>Hi, I am Evgeni Veskov, UX/UI/Web Designer generalist, based in Sofia.</p>
+            <p>Hi, I am Evgeni Veskov, UX/UI/Web Designer generalist, based in Sofia, Bulgaria.</p>
             <div class="e-anchors-holder">
                 <a href="#short-bio">#short bio</a>
                 <a href="#long-bio">#long bio</a>
