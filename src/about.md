@@ -46,6 +46,7 @@ tags : ['sitemap']
             <p>I am currently working as UX/UI Designer at B. Braun Medical.</p>
             <p>With more than 7 years of experience in the web development process, now I have a lot of knowledge in various fields, from wireframing, UX/UI to front-end parts. I use modern software and technologies.</p>
             <p>As a UX/UI Designer generalist, I am self-taught, but I also gained a lot of knowledge from my colleagues. Thank you, colleagues!</p>
+            <p>In 2022 I attended Nielsen Norman Group conference with the course <a href="https://www.nngroup.com/courses/application-ux/" target="_blank" title="Application Design for Web and Desktop" class="e-link">"Application Design for Web and Desktop"</a></p>
         </div>
         <div class="e-content__text-holder">
             <h3 id="skills" class="e-section-title">Skills</h3>
@@ -80,8 +81,9 @@ tags : ['sitemap']
                     <h3 class="e-section-title">Tools</h3>
                     <ul>
                         <li>Pen & Paper</li>
-                        <li>Sketch</li>
                         <li>Figma</li>
+                        <li>Adobe XD</li>
+                        <li>Sketch</li>
                         <li>Balsamiq</li>
                         <li>Adobe Photoshop</li>
                         <li>Adobe Illustrator</li>
@@ -89,12 +91,13 @@ tags : ['sitemap']
                         <li>Mindomo</li>
                         <li>WebStorm</li>
                         <li>VS Code</li>
+                        <li>Mural</li>
                     </ul>
                 </div>
                 <div>
                     <h3 class="e-section-title">Design</h3>
                     <ul>
-                        <li>UX (interaction design, wireframing, prototyping, competitive research, empathy for the user)</li>
+                        <li>UX (interaction design, information architecture, wireframing, prototyping, competitive research, empathy for the user)</li>
                         <li>User-centered Design</li>
                         <li>User Interface Design</li>
                         <li>Sketching</li>

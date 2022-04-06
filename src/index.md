@@ -18,7 +18,7 @@ tags : ['sitemap']
                 <div>It's Evgeni.</div>
              </div>
             </h2>
-            <p>I am a highly motivated UX/UI/Web Designer, with 7+ years of experience in the field of web and mobile app development and 10+ years of experience as a Graphic Designer. I create digital products and services that are intuitive and accessible, following best practices. I am currently working as UX/UI Designer at B. Braun Medical.</p>
+            <p>I am a highly motivated UX/UI/Web Designer, with 7+ years of experience in the field of web and mobile app development and 10+ years of experience as a Graphic Designer. I create digital products and services that are intuitive and easy to use, following best practices. I am currently working as UX/UI Designer at B. Braun Medical.</p>
             <a href="/about" class="e-link" style="margin-top: 1rem;">See more</a>
         </div>
     </div>
