@@ -46,7 +46,7 @@ tags : ['sitemap']
             <p>I am currently working as UX/UI Designer at B. Braun Medical.</p>
             <p>With more than 7 years of experience in the web development process, now I have a lot of knowledge in various fields, from wireframing, UX/UI to front-end parts. I use modern software and technologies.</p>
             <p>As a UX/UI Designer generalist, I am self-taught, but I also gained a lot of knowledge from my colleagues. Thank you, colleagues!</p>
-            <p>In 2022 I attended Nielsen Norman Group conference with the course <a href="https://www.nngroup.com/courses/application-ux/" target="_blank" title="Application Design for Web and Desktop" class="e-link">"Application Design for Web and Desktop"</a></p>
+            <p>In 2021 I attended Nielsen Norman Group conference with the course <a href="https://www.nngroup.com/courses/application-ux/" target="_blank" title="Application Design for Web and Desktop" class="e-link">"Application Design for Web and Desktop"</a></p>
         </div>
         <div class="e-content__text-holder">
             <h3 id="skills" class="e-section-title">Skills</h3>
