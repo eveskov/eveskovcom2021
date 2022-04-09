@@ -101,7 +101,7 @@ tags : ['sitemap']
                         <li>Interaction design</li>
                         <li>Information architecture</li>
                         <li>Wireframing, prototyping</li>
-                        <li>Competitive research</li>
+                        <li>Research</li>
                         <li>Empathy for the user</li>
                         <li>User interface design</li>
                         <li>Design systems</li>
