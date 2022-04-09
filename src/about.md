@@ -97,9 +97,9 @@ tags : ['sitemap']
                 <div>
                     <h3 class="e-section-title">Design</h3>
                     <ul>
+                        <li>User-centered design</li>
                         <li>Interaction design</li>
                         <li>Information architecture</li>
-                        <li>User-centered design</li>
                         <li>Wireframing, prototyping</li>
                         <li>Competitive research</li>
                         <li>Empathy for the user</li>
