@@ -78,7 +78,7 @@ p {
 }
 
 .e-root-dir-title {
-    font-size: 24px;
+    font-size: 1.5rem;
     font-weight: 700;
     color: var(--page-title);
     margin-bottom: 0;
@@ -163,7 +163,8 @@ p {
         p,
         ul li,
         .e-link {
-            font-size: 28px;
+            font-size: 1.75rem;
+            line-height: 1.3;
         }
     }
 

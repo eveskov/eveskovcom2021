@@ -12,7 +12,7 @@ tags : ['sitemap']
     <div class="e-content-holder e-content__center">
         <div class="e-content__text-holder e-intro">
             <h2 class="e-page-title">/About</h2>
-            <p>Hi, I am Evgeni Veskov, UX/UI/Web Designer generalist, based in Sofia, Bulgaria.</p>
+            <p>Hi, I am Evgeni Veskov, UX/UI Designer generalist, based in Sofia, Bulgaria.</p>
             <div class="e-anchors-holder">
                 <a href="#short-bio">#short bio</a>
                 <a href="#long-bio">#long bio</a>
@@ -32,7 +32,7 @@ tags : ['sitemap']
             <h3 id="short-bio">Short Bio</h3>
             <p>I help to build digital products and services that are intuitive and accessible, with user-centered design in mind.</p>
             <p>I define myself as a person with excellent organizational skills, very responsible, and team-oriented.</p>
-            <p>I have more than 7 years of experience in web development (social apps, entertainment, and educational industry, AI, etc).</p>
+            <p>I have more than {{site.yearsOfExperience}} years of experience in web development (social apps, entertainment, and educational industry, AI (smart assistants), etc).</p>
             <p>One noticeable achievement: UX/UI and front-end development from the ground up for my most recent project - GCSE History web app and related native mobile apps <a href="/projects/gcse-history" class="e-link">(see more)</a>. I was the only designer in the project, cooperating with 2 full-stack developers.</p>
             <p>Feel free to contact me at <a href="mailto:eveskov@gmail.com" class="e-link">eveskov@gmail.com</a>.</p>
         </div>
@@ -44,7 +44,7 @@ tags : ['sitemap']
             <p>I started as a Web Designer in a startup company. I was in close cooperation with 2 more designers and about 8-10 developers. We worked on a very interesting project - <a href="/projects/9sharp" class="e-link">9Sharp</a>. This project was meant to be a platform, where people can show their experience, generate CV, build video CV, show their web presence (including Twitter, Behance, StackOverflow, and many more). After the web app was launched, we presented it at the Web Summit in Dublin and the next year in Lisbon, but unfortunately, the project was stopped due to a lack of investment.</p>
             <p>I continued working on various projects in the same company, like family-related apps, a family-oriented web magazine (<a href="https://kinbox.com" target="_blank" class="e-link">KinBox</a>), an entertainment and social media phone app (<a href="/projects/flashmob" class="e-link">FlashMob</a>), etc. The last project, that I have worked on at 9Sharp was <a href="https://app.gcsehistory.com" target="_blank" class="e-link">GCSE History</a> - an amazing educational platform based on the UK education system.</p>
             <p>I am currently working as UX/UI Designer at B. Braun Medical.</p>
-            <p>With more than 7 years of experience in the web development process, now I have a lot of knowledge in various fields, from wireframing, UX/UI to front-end parts. I use modern software and technologies.</p>
+            <p>With more than {{site.yearsOfExperience}} years of experience in the web development process, now I have a lot of knowledge in various fields, from wireframing, UX/UI to front-end parts. I use modern software and technologies.</p>
             <p>As a UX/UI Designer generalist, I am self-taught, but I also gained a lot of knowledge from my colleagues. Thank you, colleagues!</p>
             <p>In 2021 I attended Nielsen Norman Group conference with the course <a href="https://www.nngroup.com/courses/application-ux/" target="_blank" title="Application Design for Web and Desktop" class="e-link">"Application Design for Web and Desktop"</a></p>
         </div>

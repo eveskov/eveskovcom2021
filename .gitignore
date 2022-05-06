@@ -112,3 +112,6 @@ dist
 # Eleventy
 public
 _test
+
+# Others
+instructions.txt
