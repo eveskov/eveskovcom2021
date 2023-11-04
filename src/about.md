@@ -46,7 +46,9 @@ tags : ['sitemap']
             <p>I am currently working as UX/UI Designer at B. Braun Medical.</p>
             <p>With more than {{site.yearsOfExperience}} years of experience in the web development process, now I have a lot of knowledge in various fields, from wireframing, UX/UI to front-end parts. I use modern software and technologies.</p>
             <p>As a UX/UI Designer generalist, I am self-taught, but I also gained a lot of knowledge from my colleagues. Thank you, colleagues!</p>
-            <p>In 2021 I attended Nielsen Norman Group conference with the course <a href="https://www.nngroup.com/courses/application-ux/" target="_blank" title="Application Design for Web and Desktop" class="e-link">"Application Design for Web and Desktop"</a></p>
+            <p>In 2021 I attended Nielsen Norman Group conference with the course <a href="https://www.nngroup.com/courses/application-ux/" target="_blank" title="Application Design for Web and Desktop" class="e-link">"Application Design for Web and Desktop"</a><i>&nbsp;(exam passed)</i></p>
+            <p>In 2022 I attended Nielsen Norman Group conference with the course <a href="https://www.nngroup.com/courses/complex-apps-specialized-domains/" target="_blank" title="Designing Complex Apps for Specialized Domains" class="e-link">"Designing Complex Apps for Specialized Domains"</a><i>&nbsp;(exam passed)</i></p>
+            <p>In 2023 I attended <a href="https://worldusabilitycongress.com/agenda-2023/" target="_blank" title="World Usability Congress, Graz, Austria" class="e-link">World Usability Congress</a>, Graz, Austria</p>
         </div>
         <div class="e-content__text-holder">
             <h3 id="skills" class="e-section-title">Skills</h3>
@@ -118,6 +120,8 @@ tags : ['sitemap']
             <ul>
                 <li><a href="https://www.nngroup.com/" target="_blank" class="e-link">Nielsen Norman Group</a></li>
                 <li>People from <a href="https://37signals.com/" target="_blank" class="e-link">37 Signals</a>, now <a href="https://basecamp.com/" target="_blank" class="e-link">Basecamp</a></li>
+                <li><a href="https://www.smashingmagazine.com/" target="_blank" class="e-link">Smashing Magazine</a></li>
+                <li><a href="https://baymard.com/" target="_blank" class="e-link">Baymard Institute</a></li>
                 <li>Jakub Linowski with his <a href="https://goodui.org/" target="_blank" class="e-link">Good UI</a></li>
                 <li><a href="https://css-tricks.com/" target="_blank" class="e-link">CSS Tricks</a> and many more...</li>
             </ul>
