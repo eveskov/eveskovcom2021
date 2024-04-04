@@ -49,6 +49,7 @@ tags : ['sitemap']
             <p>In 2021 I attended Nielsen Norman Group conference with the course <a href="https://www.nngroup.com/courses/application-ux/" target="_blank" title="Application Design for Web and Desktop" class="e-link">"Application Design for Web and Desktop"</a><i>&nbsp;(exam passed)</i></p>
             <p>In 2022 I attended Nielsen Norman Group conference with the course <a href="https://www.nngroup.com/courses/complex-apps-specialized-domains/" target="_blank" title="Designing Complex Apps for Specialized Domains" class="e-link">"Designing Complex Apps for Specialized Domains"</a><i>&nbsp;(exam passed)</i></p>
             <p>In 2023 I attended <a href="https://worldusabilitycongress.com/agenda-2023/" target="_blank" title="World Usability Congress, Graz, Austria" class="e-link">World Usability Congress</a>, Graz, Austria</p>
+            <p>In 2024 I attended training program <a href="/assets/certificates/Training-Certificate_Regulatory-Usability_Evgeni Nikolov.pdf" target="_blank" title="Usability and the Requirements of IEC 62366-1 and the FDA Guideline on applying Human Factors and Usability Engineering to Medical Devices" class="e-link">Usability and the Requirements of IEC 62366-1 and the FDA Guideline on applying Human Factors and Usability Engineering to Medical Devices</a></p>
         </div>
         <div class="e-content__text-holder">
             <h3 id="skills" class="e-section-title">Skills</h3>
