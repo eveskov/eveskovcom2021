@@ -48,7 +48,7 @@ tags : ['sitemap']
             <p>With more than {{site.yearsOfExperience}} years of experience in the web development process, now I have a lot of knowledge in various fields, from wireframing, UX/UI to front-end parts. I use modern software and technologies.</p>
             <p>As a UX/UI Designer generalist, I am self-taught, but I also gained a lot of knowledge from my colleagues. Thank you, colleagues!</p>
         </div>
-        <div class="e-content__text-holder">
+        <div class="e-content__text-holder"> 
             <div class="e-section-separator-line"></div> 
             <h3 id="professional-development" class="e-section-title">Professional Development</h3>
             <ul>
