@@ -49,7 +49,7 @@ tags : ['sitemap']
             <p>As a UX/UI Designer generalist, I am self-taught, but I also gained a lot of knowledge from my colleagues. Thank you, colleagues!</p>
         </div>
         <div class="e-content__text-holder">
-            <div class="e-section-separator-line"></div>
+            <div class="e-section-separator-line"></div> 
             <h3 id="professional-development" class="e-section-title">Professional Development</h3>
             <ul>
                 <li><strong>2025:</strong>&nbsp;<a href="https://formdesignmastery.com/" target="_blank" title="Form Design Mastery" class="e-link">Form Design Mastery</a> Course (Adam Silver)</li>
