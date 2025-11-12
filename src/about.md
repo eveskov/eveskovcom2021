@@ -16,6 +16,7 @@ tags : ['sitemap']
             <div class="e-anchors-holder">
                 <a href="#short-bio">#short bio</a>
                 <a href="#long-bio">#long bio</a>
+                <a href="#professional-development">#professional development</a>
                 <a href="#skills">#skills</a>
                 <a href="#learning-resources">#learning</a>
                 <a href="#trivia">#trivia about me</a>
@@ -43,15 +44,24 @@ tags : ['sitemap']
             <p>Later, in 2014, after 10 years working as a Graphic Designer, I decided to make a change in my career. I started to learn HTML, CSS, and Responsive Web Design.</p>
             <p>I started as a Web Designer in a startup company. I was in close cooperation with 2 more designers and about 8-10 developers. We worked on a very interesting project - <a href="/projects/9sharp" class="e-link">9Sharp</a>. This project was meant to be a platform, where people can show their experience, generate CV, build video CV, show their web presence (including Twitter, Behance, StackOverflow, and many more). After the web app was launched, we presented it at the Web Summit in Dublin and the next year in Lisbon, but unfortunately, the project was stopped due to a lack of investment.</p>
             <p>I continued working on various projects in the same company, like family-related apps, a family-oriented web magazine (<a href="https://kinbox.com" target="_blank" class="e-link">KinBox</a>), an entertainment and social media phone app (<a href="/projects/flashmob" class="e-link">FlashMob</a>), etc. The last project, that I have worked on at 9Sharp was <a href="https://app.gcsehistory.com" target="_blank" class="e-link">GCSE History</a> - an amazing educational platform based on the UK education system.</p>
-            <p>I am currently working as UX/UI Designer at B. Braun Medical.</p>
+            <p>I am currently working as UX/UI Designer at <a href="https://www.bbraun.com/en.html" target="_blank" title="B. Braun Medical" class="e-link">B. Braun Medical</a>.</p>
             <p>With more than {{site.yearsOfExperience}} years of experience in the web development process, now I have a lot of knowledge in various fields, from wireframing, UX/UI to front-end parts. I use modern software and technologies.</p>
             <p>As a UX/UI Designer generalist, I am self-taught, but I also gained a lot of knowledge from my colleagues. Thank you, colleagues!</p>
-            <p>In 2021 I attended Nielsen Norman Group conference with the course <a href="https://www.nngroup.com/courses/application-ux/" target="_blank" title="Application Design for Web and Desktop" class="e-link">"Application Design for Web and Desktop"</a><i>&nbsp;(exam passed)</i></p>
-            <p>In 2022 I attended Nielsen Norman Group conference with the course <a href="https://www.nngroup.com/courses/complex-apps-specialized-domains/" target="_blank" title="Designing Complex Apps for Specialized Domains" class="e-link">"Designing Complex Apps for Specialized Domains"</a><i>&nbsp;(exam passed)</i></p>
-            <p>In 2023 I attended <a href="https://worldusabilitycongress.com/agenda-2023/" target="_blank" title="World Usability Congress, Graz, Austria" class="e-link">World Usability Congress</a>, Graz, Austria</p>
-            <p>In 2024 I attended training program <a href="/assets/certificates/Training-Certificate_Regulatory-Usability_Evgeni Nikolov.pdf" target="_blank" title="Usability and the Requirements of IEC 62366-1 and the FDA Guideline on applying Human Factors and Usability Engineering to Medical Devices" class="e-link">Usability and the Requirements of IEC 62366-1 and the FDA Guideline on applying Human Factors and Usability Engineering to Medical Devices</a> (Thomas Geis, Trainer)</p>
         </div>
         <div class="e-content__text-holder">
+            <div class="e-section-separator-line"></div>
+            <h3 id="professional-development" class="e-section-title">Professional Development</h3>
+            <ul>
+                <li><strong>2025:</strong>&nbsp;<a href="https://formdesignmastery.com/" target="_blank" title="Form Design Mastery" class="e-link">Form Design Mastery</a> Course (Adam Silver)</li>
+                <li><strong>2024:</strong>&nbsp;Attended the <a href="https://uxhealthcare.co/2024-berlin-archive/" target="_blank" title="UX Healthcare Conference" class="e-link">UX Healthcare Conference</a>, Berlin.</li>
+                <li><strong>2024:</strong>&nbsp;Attended training program <a href="/assets/certificates/Training-Certificate_Regulatory-Usability_Evgeni Nikolov.pdf" target="_blank" title="Usability and the Requirements of IEC 62366-1 and the FDA Guideline on applying Human Factors and Usability Engineering to Medical Devices" class="e-link">Usability and the Requirements of IEC 62366-1 and the FDA Guideline on applying Human Factors and Usability Engineering to Medical Devices</a> (Trainer: Thomas Geis).</li>
+                <li><strong>2023:</strong>&nbsp;Attended <a href="https://worldusabilitycongress.com/agenda-2023/" target="_blank" title="World Usability Congress, Graz, Austria" class="e-link">World Usability Congress</a>, Graz, Austria.</li>
+                <li><strong>2022:</strong>&nbsp;Completed Nielsen Norman Group course <a href="https://www.nngroup.com/courses/complex-apps-specialized-domains/" target="_blank" title="Designing Complex Apps for Specialized Domains" class="e-link">"Designing Complex Apps for Specialized Domains"</a><i>&nbsp;(Exam Passed)</i>.</li>
+                <li><strong>2021:</strong>&nbsp;Completed Nielsen Norman Group course <a href="https://www.nngroup.com/courses/application-ux/" target="_blank" title="Application Design for Web and Desktop" class="e-link">"Application Design for Web and Desktop"</a><i>&nbsp;(Exam Passed)</i></li>
+            </ul>
+        </div>
+        <div class="e-content__text-holder">
+            <div class="e-section-separator-line"></div>
             <h3 id="skills" class="e-section-title">Skills</h3>
             <div class="e-about-skills-holder">
                 <ul>
@@ -123,6 +133,7 @@ tags : ['sitemap']
                 <li>People from <a href="https://37signals.com/" target="_blank" class="e-link">37 Signals</a>, now <a href="https://basecamp.com/" target="_blank" class="e-link">Basecamp</a></li>
                 <li><a href="https://www.smashingmagazine.com/" target="_blank" class="e-link">Smashing Magazine</a></li>
                 <li><a href="https://baymard.com/" target="_blank" class="e-link">Baymard Institute</a></li>
+                <li><a href="https://adamsilver.io/blog/" target="_blank" class="e-link">Adam Silver</a></li>
                 <li>Jakub Linowski with his <a href="https://goodui.org/" target="_blank" class="e-link">Good UI</a></li>
                 <li><a href="https://css-tricks.com/" target="_blank" class="e-link">CSS Tricks</a> and many more...</li>
             </ul>
