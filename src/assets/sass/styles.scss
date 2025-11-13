@@ -16,6 +16,13 @@
 //     font-display: swap;
 // }
 
+
+@use 'parts/colors';
+@use 'parts/typography';
+@use 'parts/utility';
+@use 'parts/header';
+@use 'parts/buttons';
+
 :root {
     --space-between-sections: 4rem;
 }
@@ -58,11 +65,7 @@ p {
     margin: 0;
 }
 
-@import 'parts/colors';
-@import 'parts/typography';
-@import 'parts/utility';
-@import 'parts/header';
-@import 'parts/buttons';
+
 
 //PAGE TITLE
 .e-page-title {
